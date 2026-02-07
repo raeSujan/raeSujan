@@ -6,5 +6,5 @@
   *Status:* Completed ✅  
   *Skills Learned:* Networking fundamentals, IT concepts, hands-on labs  
 
-🔗 [Cisco](https://img.shields.io/badge/Cisco-Networking_Academy-blue)
+🔗 Course Link: https://www.netacad.com/
 
