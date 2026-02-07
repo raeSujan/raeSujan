@@ -2,8 +2,9 @@
 ## 🎓 Learning & Certifications
 
 - **Cisco Networking Academy**  
-  *Course:* [Course Name]  
+  *Course:* [Introduction to Data Science]  
   *Status:* Completed ✅  
   *Skills Learned:* Networking fundamentals, IT concepts, hands-on labs  
 
-🔗 Course Link: https://www.netacad.com/
+🔗 [Cisco](https://img.shields.io/badge/Cisco-Networking_Academy-blue)
+
